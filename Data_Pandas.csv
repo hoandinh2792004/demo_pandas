@@ -1,0 +1,272 @@
+ResultID,Date,ProductID,StoreID,Quantity Ordered, Price Each ,Address,City
+1,1/1/2024,101,ST01,1,700,123 Main Street,NYC
+2,1/1/2024,102,ST02,1,14.95,456 Elm Avenue,LA
+3,1/1/2024,103,ST03,2,11.99,789 Oak Boulevard,Chicago
+4,1/1/2024,104,ST04,1,149.99,1000 Pine Drive,Houston
+5,1/1/2024,105,ST05,1,11.99,123 Maple Street,Phoenix
+6,1/2/2024,106,ST06,1,2.99,789 Elm Boulevard,San Antonio
+7,1/2/2024,107,ST07,1,389.99,789 Elm Boulevard,
+8,1/2/2024,108,ST08,1,11.95,1000 Pine Drive,San Diego
+9,1/2/2024,109,ST09,1,99.99,456 Elm Avenue,San Jose
+10,1/2/2024,110,ST10,1,150,456 Elm Avenue,San Jose
+11,1/3/2024,111,ST11,1,150,789 Oak Boulevard,Austin
+12,1/3/2024,112,ST12,1,389.99,1000 Pine Drive,Jacksonville
+13,1/3/2024,113,ST13,3,2.99,123 Maple Street,
+14,1/3/2024,114,ST14,1,149.99,456 Oak Avenue,Columbus
+15,1/3/2024,115,ST15,1,300,,Fort Worth
+16,1/4/2024,116,,1,149.99,1000 Pine Drive,Charlotte
+17,1/4/2024,117,ST01,1,400,123 Main Street,Seattle
+18,1/4/2024,118,ST02,1,150,456 Elm Avenue,Denver
+19,1/4/2024,119,ST03,1,11.95,789 Oak Boulevard,
+20,1/4/2024,120,ST04,1,3.84,123 Maple Street,
+21,1/5/2024,121,ST05,1,2.99,123 Maple Street,San Diego
+22,1/5/2024,122,ST06,1,11.95,456 Oak Avenue,San Jose
+23,1/5/2024,123,ST07,1,600,789 Elm Boulevard,San Jose
+24,1/5/2024,124,ST08,1,150,1000 Pine Drive,Austin
+25,1/5/2024,125,ST09,1,3.84,123 Main Street,Jacksonville
+26,1/6/2024,126,ST10,2,2.99,456 Elm Avenue,
+27,1/6/2024,127,ST11,1,2.99,789 Oak Boulevard,Columbus
+28,1/6/2024,128,ST12,1,11.95,1000 Pine Drive,Fort Worth
+29,1/6/2024,129,ST13,1,2.99,123 Maple Street,Charlotte
+30,1/6/2024,130,ST14,1,99.99,456 Oak Avenue,Seattle
+31,1/7/2024,131,ST15,1,150,789 Elm Boulevard,Denver
+32,1/7/2024,132,ST01,1,150,1000 Pine Drive,Columbus
+33,1/7/2024,133,ST02,1,389.99,123 Main Street,Fort Worth
+34,1/7/2024,134,ST03,1,150,456 Elm Avenue,Charlotte
+35,1/7/2024,135,ST04,1,3.84,789 Oak Boulevard,Seattle
+36,1/8/2024,136,ST05,1,389.99,1000 Pine Drive,Denver
+37,1/8/2024,137,ST06,1,11.99,123 Maple Street,
+38,1/8/2024,138,ST07,1,11.95,456 Oak Avenue,
+39,1/8/2024,139,ST08,1,2.99,789 Elm Boulevard,San Diego
+40,1/8/2024,140,ST09,2,11.99,1000 Pine Drive,San Jose
+41,1/9/2024,141,ST10,1,11.95,123 Main Street,San Jose
+42,1/9/2024,142,ST11,1,11.95,456 Elm Avenue,Austin
+43,1/9/2024,143,ST12,1,11.99,789 Oak Boulevard,Jacksonville
+44,1/9/2024,144,ST13,1,14.95,1000 Pine Drive,
+45,1/9/2024,145,ST14,1,99.99,123 Maple Street,Columbus
+46,1/10/2024,146,ST15,1,14.95,456 Oak Avenue,Fort Worth
+47,1/10/2024,147,,1,14.95,789 Elm Boulevard,Charlotte
+48,1/10/2024,148,,1,2.99,1000 Pine Drive,Seattle
+49,1/10/2024,149,,1,14.95,123 Main Street,Denver
+50,1/10/2024,150,ST01,1,400,456 Elm Avenue,Columbus
+51,1/11/2024,101,ST02,1,300,123 Main Street,Fort Worth
+52,1/11/2024,102,ST03,1,11.99,456 Elm Avenue,Charlotte
+53,1/11/2024,103,ST04,3,2.99,789 Oak Boulevard,Seattle
+54,1/11/2024,104,ST05,1,389.99,1000 Pine Drive,Denver
+55,1/11/2024,105,ST06,1,99.99,123 Maple Street,
+56,1/12/2024,106,ST07,1,389.99,789 Elm Boulevard,
+57,1/12/2024,107,ST08,1,109.99,789 Elm Boulevard,San Diego
+58,1/12/2024,108,ST09,1,150,1000 Pine Drive,San Jose
+59,1/12/2024,109,ST10,3,3.84,456 Elm Avenue,San Jose
+60,1/12/2024,110,ST11,1,3.84,456 Elm Avenue,Austin
+61,1/13/2024,111,ST12,1,2.99,789 Oak Boulevard,Jacksonville
+62,1/13/2024,112,ST13,1,11.95,1000 Pine Drive,
+63,1/13/2024,113,ST14,1,99.99,123 Maple Street,Columbus
+64,1/13/2024,114,ST15,1,3.84,456 Oak Avenue,Fort Worth
+65,1/13/2024,115,,1,11.95,789 Elm Boulevard,Charlotte
+66,1/14/2024,116,,1,14.95,1000 Pine Drive,Seattle
+67,1/14/2024,117,,1,14.95,123 Main Street,Denver
+68,1/14/2024,118,,1,2.99,456 Elm Avenue,
+69,1/14/2024,119,,1,150,789 Oak Boulevard,
+70,1/14/2024,120,ST01,1,150,123 Maple Street,Columbus
+71,1/15/2024,121,ST02,2,2.99,123 Maple Street,Fort Worth
+72,1/15/2024,122,ST03,1,3.84,456 Oak Avenue,Charlotte
+73,1/15/2024,123,ST04,1,11.95,789 Elm Boulevard,Seattle
+74,1/15/2024,,ST05,3,2.99,1000 Pine Drive,Denver
+75,1/15/2024,125,ST06,1,11.99,123 Main Street,
+76,1/15/2024,126,ST07,1,2.99,456 Elm Avenue,
+77,1/15/2024,127,ST08,1,149.99,789 Oak Boulevard,San Diego
+78,1/15/2024,128,ST09,2,2.99,1000 Pine Drive,San Jose
+79,1/15/2024,128,ST10,1,2.99,123 Maple Street,San Jose
+80,1/13/2024,113,ST11,1,379.99,456 Oak Avenue,Austin
+81,1/13/2024,114,ST12,1,150,789 Elm Boulevard,Jacksonville
+82,1/13/2024,115,ST13,1,14.95,1000 Pine Drive,
+83,,116,ST14,1,149.99,123 Main Street,Columbus
+84,1/14/2024,117,ST15,1,11.95,456 Elm Avenue,Fort Worth
+85,1/14/2024,118,ST01,3,2.99,789 Oak Boulevard,Charlotte
+86,1/14/2024,119,ST02,1,149.99,1000 Pine Drive,Seattle
+87,1/14/2024,120,ST03,1,99.99,123 Maple Street,Denver
+88,1/15/2024,121,ST04,1,99.99,456 Oak Avenue,Columbus
+89,1/15/2024,122,ST05,1,3.84,1000 Pine Drive,Fort Worth
+90,1/15/2024,123,ST06,1,99.99,123 Main Street,Charlotte
+91,1/15/2024,124,ST07,2,2.99,456 Elm Avenue,Seattle
+92,1/15/2024,125,ST08,1,11.95,789 Oak Boulevard,Denver
+93,1/15/2024,126,ST09,1,11.95,1000 Pine Drive,
+94,1/15/2024,127,ST10,1,99.99,123 Maple Street,
+95,1/15/2024,128,ST11,1,600,456 Oak Avenue,San Diego
+96,1/15/2024,128,ST12,1,11.95,789 Elm Boulevard,San Jose
+97,1/13/2024,114,ST13,1,999.99,1000 Pine Drive,San Jose
+98,1/13/2024,115,ST14,1,11.95,123 Main Street,Austin
+99,1/14/2024,116,ST15,1,11.99,789 Elm Boulevard,Jacksonville
+100,1/14/2024,117,ST01,1,300,1000 Pine Drive,
+101,1/14/2024,118,ST02,1,11.95,123 Main Street,Columbus
+102,1/14/2024,119,ST03,1,149.99,456 Elm Avenue,Fort Worth
+103,1/14/2024,120,ST04,1,11.95,789 Oak Boulevard,Charlotte
+104,1/15/2024,121,ST05,5,2.99,1000 Pine Drive,Seattle
+105,2/15/2024,122,ST06,1,700,123 Maple Street,Denver
+106,2/16/2024,123,ST07,1,99.99,456 Oak Avenue,
+107,2/17/2024,124,ST08,1,2.99,789 Elm Boulevard,Columbus
+108,2/18/2024,125,ST09,1,2.99,1000 Pine Drive,Fort Worth
+109,2/19/2024,126,ST10,1,14.95,123 Main Street,Charlotte
+110,2/20/2024,127,ST11,1,600,456 Elm Avenue,Seattle
+111,2/21/2024,128,ST12,1,11.99,789 Oak Boulevard,Denver
+112,2/22/2024,128,ST13,1,99.99,1000 Pine Drive,
+113,2/23/2024,124,ST14,1,150,123 Maple Street,
+114,2/24/2024,125,ST15,1,11.95,456 Oak Avenue,San Diego
+115,2/25/2024,126,ST01,1,150,1000 Pine Drive,San Jose
+116,2/26/2024,127,ST02,1,3.84,123 Main Street,San Jose
+117,2/27/2024,128,ST03,2,11.95,456 Elm Avenue,Austin
+118,2/28/2024,128,ST04,1,14.95,789 Oak Boulevard,Jacksonville
+119,2/29/2024,124,ST05,1,14.95,1000 Pine Drive,
+120,3/1/2024,125,ST06,2,11.95,123 Maple Street,Columbus
+121,3/2/2024,126,ST07,1,14.95,456 Oak Avenue,Fort Worth
+122,3/3/2024,127,ST08,1,11.95,789 Elm Boulevard,Charlotte
+123,3/4/2024,128,ST09,1,99.99,1000 Pine Drive,Seattle
+124,3/5/2024,128,ST10,1,389.99,123 Main Street,Denver
+125,3/6/2024,124,ST11,1,14.95,123 Maple Street,
+126,3/7/2024,125,ST12,1,14.95,456 Oak Avenue,
+127,3/8/2024,126,ST13,1,14.95,789 Elm Boulevard,Columbus
+128,3/9/2024,127,ST14,2,2.99,1000 Pine Drive,Fort Worth
+129,3/10/2024,128,ST15,1,14.95,123 Main Street,Charlotte
+130,3/11/2024,128,,2,150,456 Elm Avenue,Seattle
+131,3/12/2024,124,,1,14.95,123 Main Street,Denver
+132,3/13/2024,125,,1,11.99,456 Elm Avenue,
+133,3/14/2024,126,ST01,1,3.84,789 Oak Boulevard,
+134,3/15/2024,127,ST02,1,400,1000 Pine Drive,San Diego
+135,3/16/2024,128,ST03,1,11.99,,San Jose
+136,3/17/2024,128,ST04,1,300,789 Elm Boulevard,San Jose
+137,3/18/2024,124,ST05,1,389.99,,Austin
+138,3/19/2024,125,ST06,1,11.95,1000 Pine Drive,Jacksonville
+139,3/20/2024,126,ST07,1,14.95,,
+140,3/21/2024,127,ST08,2,2.99,456 Elm Avenue,Columbus
+141,3/22/2024,128,ST09,1,14.95,789 Oak Boulevard,Fort Worth
+142,3/23/2024,128,ST10,1,2.99,1000 Pine Drive,Charlotte
+143,3/24/2024,124,ST11,1,149.99,123 Maple Street,Seattle
+144,3/25/2024,125,ST12,1,11.99,456 Oak Avenue,Denver
+145,3/26/2024,126,ST13,1,389.99,789 Elm Boulevard,
+146,3/27/2024,127,ST14,1,11.99,1000 Pine Drive,Columbus
+147,3/28/2024,128,ST15,1,11.99,123 Main Street,Fort Worth
+148,3/29/2024,128,,1,11.95,456 Elm Avenue,Charlotte
+149,3/30/2024,124,,1,3.84,789 Oak Boulevard,Seattle
+150,3/31/2024,125,,1,11.95,,Denver
+151,4/1/2024,126,ST01,1,99.99,123 Maple Street,
+152,4/2/2024,127,ST02,1,2.99,789 Elm Boulevard,
+153,4/3/2024,128,ST03,1,2.99,789 Elm Boulevard,San Diego
+154,4/4/2024,128,ST04,1,600,,San Jose
+155,4/5/2024,124,ST05,1,11.95,456 Elm Avenue,San Jose
+156,4/6/2024,125,ST06,1,400,456 Elm Avenue,Austin
+157,4/7/2024,126,ST07,1,14.95,,Jacksonville
+158,4/8/2024,127,ST08,1,2.99,1000 Pine Drive,
+159,4/9/2024,128,ST09,1,14.95,123 Maple Street,Columbus
+160,4/10/2024,128,ST10,1,3.84,456 Oak Avenue,Fort Worth
+156,4/11/2024,125,ST11,1,11.99,,Charlotte
+157,4/12/2024,126,ST12,1,99.99,1000 Pine Drive,Seattle
+158,4/13/2024,127,ST13,1,150,123 Main Street,Denver
+159,4/14/2024,128,ST14,1,11.95,456 Elm Avenue,
+160,4/15/2024,128,ST15,1,700,789 Oak Boulevard,Columbus
+160,4/16/2024,128,ST01,1,2.99,456 Oak Avenue,Fort Worth
+156,4/17/2024,125,ST02,1,11.95,,Charlotte
+157,4/18/2024,126,ST03,1,14.95,1000 Pine Drive,Seattle
+158,4/19/2024,127,ST04,1,2.99,123 Main Street,Denver
+159,4/20/2024,128,ST05,1,999.99,456 Elm Avenue,
+160,4/21/2024,128,ST06,1,14.95,789 Oak Boulevard,
+161,4/22/2024,101,ST07,1,150,1000 Pine Drive,San Diego
+162,4/23/2024,102,ST08,1,2.99,123 Main Street,San Jose
+163,4/24/2024,103,ST09,1,14.95,789 Elm Boulevard,San Jose
+164,4/25/2024,104,ST10,1,3.84,1000 Pine Drive,Austin
+165,4/26/2024,105,ST11,1,11.99,123 Main Street,Jacksonville
+166,4/27/2024,106,ST12,1,11.95,456 Elm Avenue,
+167,4/28/2024,107,ST13,1,150,789 Oak Boulevard,Columbus
+168,4/29/2024,108,ST14,1,150,1000 Pine Drive,Fort Worth
+169,4/30/2024,109,ST15,1,99.99,123 Maple Street,Charlotte
+170,5/1/2024,110,ST01,1,149.99,456 Oak Avenue,Seattle
+171,5/2/2024,111,ST02,1,11.99,789 Elm Boulevard,Denver
+172,5/3/2024,112,ST03,2,3.84,1000 Pine Drive,Columbus
+173,5/4/2024,113,ST04,1,3.84,123 Main Street,Fort Worth
+174,5/5/2024,114,ST05,1,600,456 Elm Avenue,Charlotte
+175,5/6/2024,115,ST06,1,11.99,789 Oak Boulevard,Seattle
+176,5/7/2024,116,ST07,1,2.99,1000 Pine Drive,Denver
+177,5/8/2024,117,ST08,1,99.99,123 Maple Street,
+178,5/9/2024,118,ST09,1,150,456 Oak Avenue,
+179,5/10/2024,119,ST10,1,11.99,1000 Pine Drive,San Diego
+180,5/11/2024,120,ST11,2,14.95,123 Main Street,San Jose
+181,5/12/2024,121,ST12,1,300,456 Elm Avenue,San Jose
+182,5/13/2024,122,ST13,1,150,789 Oak Boulevard,Austin
+183,5/14/2024,123,ST14,2,14.95,1000 Pine Drive,Jacksonville
+184,5/15/2024,124,ST15,1,150,123 Maple Street,
+185,5/16/2024,125,,1,11.99,456 Oak Avenue,Columbus
+186,5/17/2024,126,,1,600,789 Elm Boulevard,Fort Worth
+187,5/18/2024,127,,1,11.95,1000 Pine Drive,Charlotte
+188,5/19/2024,128,ST01,1,3.84,123 Main Street,Seattle
+189,5/20/2024,129,ST02,1,150,123 Maple Street,Denver
+190,5/21/2024,130,ST03,1,379.99,456 Oak Avenue,Columbus
+191,5/22/2024,131,ST04,1,11.95,789 Elm Boulevard,Fort Worth
+192,5/23/2024,132,ST05,1,11.95,1000 Pine Drive,Charlotte
+193,5/24/2024,133,ST06,1,600,123 Main Street,Seattle
+194,5/25/2024,134,ST07,1,389.99,456 Elm Avenue,Denver
+195,5/26/2024,135,ST08,1,11.95,123 Main Street,
+196,5/27/2024,136,ST09,1,99.99,456 Elm Avenue,
+197,5/28/2024,137,ST10,1,700,789 Oak Boulevard,San Diego
+198,5/29/2024,138,ST11,2,11.99,1000 Pine Drive,San Jose
+199,5/30/2024,139,ST12,1,300,,San Jose
+200,5/31/2024,140,ST13,1,600,789 Elm Boulevard,Austin
+201,6/1/2024,141,ST14,1,3.84,,Jacksonville
+202,6/2/2024,142,ST15,1,600,1000 Pine Drive,
+203,6/3/2024,143,ST01,1,14.95,,Columbus
+204,6/4/2024,144,ST02,1,2.99,456 Elm Avenue,Fort Worth
+205,6/5/2024,145,ST03,1,11.95,789 Oak Boulevard,Charlotte
+206,6/6/2024,146,ST04,1,99.99,1000 Pine Drive,Seattle
+207,6/7/2024,147,ST05,1,2.99,123 Maple Street,Denver
+208,6/8/2024,148,ST06,1,99.99,456 Oak Avenue,
+209,6/9/2024,149,ST07,1,11.95,789 Elm Boulevard,
+210,6/10/2024,150,ST08,1,600,1000 Pine Drive,Columbus
+211,6/11/2024,101,ST09,1,99.99,123 Main Street,Fort Worth
+212,6/12/2024,102,ST10,1,3.84,456 Elm Avenue,Charlotte
+213,6/13/2024,103,ST11,1,99.99,789 Oak Boulevard,Seattle
+214,6/14/2024,104,ST12,1,99.99,,Denver
+215,6/15/2024,105,ST13,1,99.99,123 Maple Street,
+216,6/16/2024,106,ST14,1,150,789 Elm Boulevard,
+217,6/17/2024,107,ST15,1,2.99,789 Elm Boulevard,San Diego
+218,6/18/2024,108,ST01,1,700,,San Jose
+219,6/19/2024,109,ST02,1,150,456 Elm Avenue,San Jose
+220,6/20/2024,110,ST03,1,700,456 Elm Avenue,Austin
+221,6/21/2024,111,ST04,1,2.99,,Jacksonville
+222,6/22/2024,112,ST05,1,700,1000 Pine Drive,
+223,6/23/2024,113,ST06,1,14.95,123 Maple Street,Columbus
+224,6/24/2024,114,ST07,1,11.99,456 Oak Avenue,Fort Worth
+225,6/25/2024,115,ST08,1,150,,Charlotte
+226,6/26/2024,116,ST09,2,3.84,1000 Pine Drive,Seattle
+227,6/27/2024,117,ST10,1,14.95,123 Main Street,Denver
+228,6/28/2024,118,ST11,2,2.99,456 Elm Avenue,
+229,6/29/2024,119,ST12,1,99.99,789 Oak Boulevard,
+230,6/30/2024,120,ST13,1,300,456 Oak Avenue,Columbus
+231,7/1/2024,121,ST14,1,300,,Fort Worth
+232,7/2/2024,122,ST15,1,2.99,1000 Pine Drive,Charlotte
+233,7/3/2024,123,ST01,1,150,123 Main Street,Seattle
+234,7/4/2024,150,ST02,1,700,456 Elm Avenue,Denver
+235,7/5/2024,101,ST03,1,700,789 Oak Boulevard,
+236,7/6/2024,102,ST04,1,150,1000 Pine Drive,
+237,7/7/2024,103,ST05,1,14.95,123 Main Street,San Diego
+238,7/8/2024,104,ST06,1,700,789 Elm Boulevard,San Jose
+239,7/9/2024,105,ST07,1,3.84,1000 Pine Drive,San Jose
+240,7/10/2024,106,ST08,1,600,123 Main Street,Austin
+241,7/11/2024,107,ST09,1,150,456 Elm Avenue,Jacksonville
+242,7/12/2024,108,ST10,1,99.99,789 Oak Boulevard,
+234,7/4/2024,150,ST11,1,700,456 Elm Avenue,Columbus
+235,7/5/2024,101,ST12,1,700,789 Oak Boulevard,Fort Worth
+236,7/6/2024,102,ST13,1,150,1000 Pine Drive,Charlotte
+237,7/7/2024,103,ST14,1,14.95,123 Main Street,Seattle
+238,7/8/2024,104,ST15,1,700,789 Elm Boulevard,Denver
+239,7/9/2024,105,ST01,1,3.84,1000 Pine Drive,Columbus
+240,7/10/2024,106,ST02,1,600,123 Main Street,Fort Worth
+241,7/11/2024,107,ST03,1,150,456 Elm Avenue,Charlotte
+242,7/12/2024,108,ST04,1,99.99,789 Oak Boulevard,Seattle
+234,7/4/2024,150,ST11,1,700,456 Elm Avenue,Columbus
+235,7/5/2024,101,ST12,1,700,789 Oak Boulevard,Fort Worth
+236,7/6/2024,102,ST13,1,150,1000 Pine Drive,Charlotte
+237,7/7/2024,103,ST14,1,14.95,123 Main Street,Seattle
+238,7/8/2024,104,ST15,1,700,789 Elm Boulevard,Denver
+239,7/9/2024,105,ST01,1,3.84,1000 Pine Drive,Columbus
+240,7/10/2024,106,ST02,1,600,123 Main Street,Fort Worth
+241,7/11/2024,107,ST03,1,150,456 Elm Avenue,Charlotte
+242,7/12/2024,108,ST04,1,99.99,789 Oak Boulevard,Seattle
